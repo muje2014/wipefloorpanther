@@ -1,5 +1,5 @@
 <hr>
-    <br>  <br>  <br>  
+    <br>  <br> 
     <h4 align="center">
      ⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/pizzathrow">gh 2</a>⠀<a href="https://toji.atabook.org/">atabook</a><br>
   <a href="https://rentry.co/genjo"><img src="https://files.catbox.moe/eethlp.png" width="300" height="100%"></img></a><br>
