@@ -1,7 +1,7 @@
 <hr>
     <br>  <br>  <br>  
     <h4 align="center">
-     ⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/pizzathrow">gh 2</a>⠀<a href="https://toji.atabook.org/">atabook</a><br>
+     ⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/pizzathrow">gh 2</a>⠀<a href="https://toji.atabook.org/">atabook</a><br>
   <a href="https://rentry.co/genjo"><img src="https://files.catbox.moe/eethlp.png" width="300" height="100%"></img></a><br>
     <img src="https://camo.githubusercontent.com/4d150120d9d402c714e6af83c7c8e8207199332469e950dc8805f8cbf9fa77e2/68747470733a2f2f73706f746966792d6769746875622d70726f66696c652e6b697474696e616e782e636f6d2f6170692f766965773f7569643d76656e6973656c696d3230303826636f7665725f696d6167653d74727565267468656d653d6e6174656d6f6f2d72652673686f775f6f66666c696e653d74727565266261636b67726f756e645f636f6c6f723d66666666666626696e7465726368616e67653d74727565266261725f636f6c6f725f636f7665723d66616c7365266261725f636f6c6f723d643635373537"></img>
   <br>  <br>  <br>  <br>  <br>
